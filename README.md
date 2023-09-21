@@ -1,0 +1,1 @@
+# Harjutus1_Tallinna_ilmaennustus_Yr.no_API
